@@ -33,7 +33,7 @@ public interface Constant {
 	/** 刷新模板文件夹 */
 	static final String TEMPLATE_DIR_REFRESH = "刷新模板文件夹";
 	/** 实体类模板的默认名字 */
-	static final String TEMPLATE_NAME_ENTITY = "Entity.ftl";
+	static final String TEMPLATE_NAME_ENTITY = "myEntity.ftl";
 	/** Service模板的默认名字 */
 	static final String TEMPLATE_NAME_SERVICE = "Service.ftl";
 	/** ServiceImpl模板的默认名字 */
